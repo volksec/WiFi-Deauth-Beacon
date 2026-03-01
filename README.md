@@ -560,18 +560,6 @@ of this software...
 ```
 
 ---
-
-| Critério | Status |
-|---------|--------|
-| ✅ Originalidade | Interface OLED + stealth mode + AT commands |
-| ✅ Praticidade | Operação standalone sem computador |
-| ✅ Documentação | README completo + PDF do projeto |
-| ✅ Código-fonte | C++ modular, comentado, organizado |
-| ✅ Compatibilidade | Kali, RPi, airodump-ng, Python, MQTT |
-| ✅ Segurança/Ética | Disclaimer legal e boas práticas documentadas |
-
----
-
 <div align="center">
 
 **Desenvolvido para a comunidade de segurança ofensiva**
